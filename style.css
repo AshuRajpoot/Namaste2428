@@ -1,0 +1,43 @@
+body{background-color:#9794ae ;
+    border-width: 3px;
+    border-style: dashed;} 
+
+#hello{background-color:#F2D5F8 ;
+padding: 10px;
+height: 240px;
+} 
+
+#About-Me{background-color:#E6C0E9;
+    padding: 15px;
+    height: 500px;
+    }
+
+#college{ background-color:#BFABCB;
+    padding: 15px;
+    height: 900px;
+}
+
+table{ background-color:#B3A3C2;
+    border-width: 3px;
+    border-style: dashed;
+width: 500px;
+}
+
+#media{background-color:#A69AB9;
+    padding: 15px;
+    height: 200px;}
+
+#review{background-color:#8D89A6 ;
+    padding: 15px;
+    height: 300px;}
+
+.myclass{line-height: 25px; font-size:14px ;}
+
+h1{text-align: center;
+    font-size: 50px;
+    text-decoration: dotted underline;}
+
+h2{font-size: 30px;
+    text-align: center;
+    text-decoration: double underline;}
+  
